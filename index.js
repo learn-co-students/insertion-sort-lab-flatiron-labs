@@ -1,4 +1,5 @@
 function findMinAndRemove(array){
+  console.log('hello')
 
 }
 
